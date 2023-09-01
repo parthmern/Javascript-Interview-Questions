@@ -58,3 +58,12 @@ function test(){
   var b = "goodbye";   // ❌ ERROR = var > let so let cannot be shadowed by var
 }
 ```
+
+## 💚 Declaration without values
+➔ var,let possible
+➔ const error
+
+## 💙 Hoisting
+➔ accessing variable before the declaration <br/>
+➔ how js excecution contex works (find on youtube namasteJS playlist) <br/>
+➔ [hoisting and temporal dead zone for let-const](https://chat.openai.com/share/7f6c7f56-6ae4-49d4-ac75-567164952f11)
