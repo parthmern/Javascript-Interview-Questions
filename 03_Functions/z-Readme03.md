@@ -37,7 +37,9 @@ greeting(sayHello, "JavaScript!");
 ```
 
 ## 💚 function scoped 
-➔ [chatGpt](https://chat.openai.com/share/b5ee62e0-ff5e-435d-8192-4fb924911d43) 
-➔ [que on chatGpt](https://chat.openai.com/share/c3bede02-b125-4fb6-a6df-9c9e7c9bedaa)
+➔ [chatGpt](https://chat.openai.com/share/b5ee62e0-ff5e-435d-8192-4fb924911d43)  <br/>
+➔ [que on chatGpt](https://chat.openai.com/share/c3bede02-b125-4fb6-a6df-9c9e7c9bedaa) <br/>
 
-## 💙
+➔ [scopes](https://youtu.be/Uc6MJOL1Kio?si=f2QpcBcsebSdHD3S) <br/>
+
+## 💙 Hoisting in function
